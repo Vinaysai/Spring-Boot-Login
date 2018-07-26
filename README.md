@@ -12,15 +12,16 @@ Also,Do's and Dont's.
 
 
 <h1>Do's</h1>
-1.Include all the dependencies.
-2.When added Bootstrap use the following link.
+1.Include all the dependencies.</br>
+2.When added Bootstrap use the following link.</br>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-3.When added css to the above bootstrap through jsp.use the following link.
+3.When added css to the above bootstrap through jsp.use the following link.</br>
 <style>
 <%@include file="/WEB-INF/signin.css"%>
 </style>
-4.Use jstl tag dependency for whole web page to run properly.
+4.Use jstl tag dependency for whole web page to run properly.</br>
+
 <h1>Dont's</h1>
 1.Avoide innner css,javascript,json,e.t.c. in the jsp.</br>
 2.Create a seperate css,javascript,json,e.t.c. files in src/main/webapp and link those files through jstl tage to make them active.
