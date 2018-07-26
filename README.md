@@ -11,7 +11,7 @@ Also,Do's and Dont's.
 
 
 
-<h1>Do's</h1>
+<h1>ToDo's</h1>
 <h1>1.Use JSP's With JSTL tag libs for better and error free pages</h1>,</br>
 1.Include all the dependencies.</br>
 2.When added Bootstrap use the following link.</br>
@@ -23,7 +23,7 @@ Also,Do's and Dont's.
 </style>
 4.Use jstl tag dependency for whole web page to run properly.</br>
 
-<h1>Dont's</h1>
+<h1>Dont</h1>
 1.Avoide innner css,javascript,json,e.t.c. in the jsp.</br>
 2.Create a seperate css,javascript,json,e.t.c. files in src/main/webapp and link those files through jstl tage to make them active.
 
