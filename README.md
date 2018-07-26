@@ -35,5 +35,5 @@ Also,Do's and Dont's.
 
 
 <h2>Be patient,Motivate yourself,Concentrate,<h2>
-<h2>Love you DAD for ever...:)</h2>
+<h2>Love you MOM,DAD for ever...:)</h2>
 .................
