@@ -12,6 +12,7 @@ Also,Do's and Dont's.
 
 
 <h1>Do's</h1>
+<h1>1.Use JSP's With JSTL tag libs for better and error free pages</h1>,</br>
 1.Include all the dependencies.</br>
 2.When added Bootstrap use the following link.</br>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
