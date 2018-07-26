@@ -29,3 +29,9 @@ Also,Do's and Dont's.
 
 
 <h1>This Readme.md will be upgraded over time for reference and all the helpfull purposes.</h1>
+
+
+
+
+<h2>Be patient,Motivate yourself,Concentrate,<h2>
+<h2>Love you DAD for ever...:)</h2>
