@@ -22,7 +22,7 @@ Also,Do's and Dont's.
 </style>
 4.Use jstl tag dependency for whole web page to run properly.
 <h1>Dont's</h1>
-1.Avoide innner css,javascript,json,e.t.c. in the jsp.
+1.Avoide innner css,javascript,json,e.t.c. in the jsp.</br>
 2.Create a seperate css,javascript,json,e.t.c. files in src/main/webapp and link those files through jstl tage to make them active.
 
 
