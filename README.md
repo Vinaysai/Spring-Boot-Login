@@ -24,7 +24,25 @@ Also,Do's and Dont's.
 </style>
         </br>
 4.Use jstl tag dependency for whole web page to run properly.</br>
+<h2>5.Mandatory To Use jackson databind and embeded jasper dependencies to Display the web page in the browser or The webpage will simply download over the internal container.
+                <dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-jasper</artifactId>
+		</dependency>
 
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/jstl/jstl -->
+		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+
+
+</h2></br>
 <h1>Dont</h1>
 1.Avoide innner css,javascript,json,e.t.c. in the jsp.</br>
 2.Create a seperate css,javascript,json,e.t.c. files in src/main/webapp and link those files through jstl tage to make them active.
