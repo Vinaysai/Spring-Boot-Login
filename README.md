@@ -24,11 +24,8 @@ Also,Do's and Dont's.
 </style>
         </br>
 4.Use jstl tag dependency for whole web page to run properly.</br>
-<h2>5.Mandatory To Use jackson databind and embeded jasper dependencies to Display the web page in the browser or The webpage will simply download over the internal container.
-                <dependency>
-			<groupId>org.apache.tomcat.embed</groupId>
-			<artifactId>tomcat-embed-jasper</artifactId>
-		</dependency>
+<h2>5.Mandatory To Use jackson databind and embeded jasper dependencies to Display the web page in the browser or The webpage will simply download over the internal container.Also with jstl.
+                
 
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
@@ -39,6 +36,10 @@ Also,Do's and Dont's.
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-jasper</artifactId>
 		</dependency>
 
 
